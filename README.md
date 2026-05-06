@@ -122,7 +122,7 @@ Composite y Decorator comparten una estructura de composición recursiva similar
 
 ------------------------------------------------------------------------
 
-## 4. Herramientas y Versiones
+## Herramientas y Versiones
 
 -   **Lenguaje:** Go (v1.21+)
 -   **IDE recomendado:** VS Code con extensión de Go o GoLand
