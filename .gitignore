@@ -1,0 +1,39 @@
+# Binarios compilados
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Binarios de test
+*.test
+
+# Output de go build
+/composite/composite
+/decorator/decorator
+
+# Caché de módulos y build
+/vendor/
+*.sum.bak
+
+# Archivos de cobertura de tests
+*.out
+coverage.html
+
+# Archivos del sistema operativo
+.DS_Store
+.DS_Store?
+._*
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# IDEs y editores
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log

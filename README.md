@@ -31,7 +31,7 @@ decorator/
 ```
 
 ---
-## 3. Ejecución del Proyecto
+## Ejecución del Proyecto
 
 ### Requisitos previos
 
